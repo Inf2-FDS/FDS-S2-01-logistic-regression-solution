@@ -1,4 +1,4 @@
-Gender,Age,Debt,YearsEmployed,PriorDefault,Employed,CreditScore,DriversLicense,ZipCode,Income,Approved
+Gender,Age,Debt,YearsEmployed,NoPriorDefault,Employed,CreditScore,DriversLicense,ZipCode,Income,Approved
 b,30.83,0.0,1.25,t,t,1,f,202.0,0,+
 a,58.67,4.46,3.04,t,t,6,f,43.0,560,+
 a,24.5,0.5,1.5,t,f,0,f,280.0,824,+
